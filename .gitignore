@@ -1,0 +1,13 @@
+src/themes/twentynineteen
+src/themes/twentytwenty
+src/themes/twentytwentyone
+wp-includes
+
+src/themes/*/dist/css/style.css
+src/themes/*/dist/js/global.js
+
+node_modules
+vendor
+.DS_Store
+src/plugins/akismet/*
+src/plugins/hello.php
